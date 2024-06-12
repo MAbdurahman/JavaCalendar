@@ -1,3 +1,3 @@
-# java-calendar
+# JavaCalendar
 
-java-calendar is application utilizing jdk 8 version 1.8.0_251
+JavaCalendar is application utilizing jdk 8 version 1.8.0_251
