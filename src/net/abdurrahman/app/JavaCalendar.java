@@ -92,8 +92,7 @@ public class JavaCalendar extends JFrame {
         calendarPanel.add(calendarScrollPane);
 
         //Set bounds
-        /*calendarPanel.setBounds(0, 0, 320, 335);*/
-        calendarPanel.setBounds(0, 0, 500, 600);
+        calendarPanel.setBounds(0, 0, 320, 335);
         monthLabel.setBounds(160 - monthLabel.getPreferredSize().width / 2, 25, 100, 25);
         yearLabel.setBounds(10, 305, 80, 20);
         yearComboBox.setBounds(230, 305, 80, 20);
